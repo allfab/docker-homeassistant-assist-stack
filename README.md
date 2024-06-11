@@ -11,12 +11,9 @@
 <h4 align="center">Home Assistant Local Assist Pipeline with <a href="https://docs.docker.com/compose/">Docker Compose</a>.</h4>
 
 <p align="center">
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href="https://perfecthomelab.allfabox.fr/" target="_blank"><img src="https://img.shields.io/badge/Perfect_Homelab-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white" /></a>
+  <a href="https://www.home-assistant.io/" target="_blank"><img src="https://img.shields.io/badge/homeassistant-038fc7?style=for-the-badge&logo=homeassistant&logoColor=white" /></a>
+  <a href="https://esphome.io/" target="_blank"><img src="https://img.shields.io/badge/esphome-489e9e?style=for-the-badge&logo=esphome&logoColor=white" /></a>
 </p>
 
 <p align="center">
